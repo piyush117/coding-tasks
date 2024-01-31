@@ -1,0 +1,5 @@
+Created a Class for implementing the methods as well running the tests for them.
+Used Jupyter notebook (.ipynb) file to get the results for all the methods then hardcoded them in the unit tests to get the results.
+Didn't pay attention to the .pdf file in the Level up therefore forgot to look at all the things mentioned in the file like requirements and considerations.
+Will make sure to be thorough in doing the coding task from next time.
+For this time I am just providing the basic code that I've used. 
